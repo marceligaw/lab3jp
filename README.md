@@ -15,6 +15,7 @@ Po naciśnięciu i zwolnieniu przycisku myszy, wyświetlano komunikat w panelu b
 Po użyciu kółka myszy, zmieniano rozmiar wybranej figury na obszarze rysowania. <u>(w moim przypadku = strzałki góra dół)</u>
 
 **package controller, package sensors, oraz klasa główna MainWindow (Swing - rysowanie/animacje)**
+
 Zadanie 2: System monitorowania czujników
 Opracuj system monitorowania czujników, zbierających dane z różnych źródeł (temperatura, wilgotność, ciśnienie). 
 Każdy rodzaj czujnika powinien działać jako osobny wątek. Wprowadź elementy współdzielonych zasobów,
